@@ -12,7 +12,3 @@ def init_dict():
             dict[key] = []
     # print json.dumps(dict).decode("unicode-escape")
     return dict
-
-def init():
-    pass
-
